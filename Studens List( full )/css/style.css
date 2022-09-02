@@ -1,0 +1,15 @@
+.myinput{
+    width: 20%;
+}
+td img{
+    cursor: pointer;
+}
+td .img1{
+margin-right: 10px;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
